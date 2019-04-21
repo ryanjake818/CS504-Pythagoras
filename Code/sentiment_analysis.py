@@ -71,7 +71,16 @@ for num in neutral:
 Neutral_Tweets.to_csv(path_or_buf='Neutral_Tweets.csv', index=False)
 
 
+import matplotlib.pyplot as plt
+import numpy as np
+objects = ('Positive', 'Neutral', 'Neutral')
+res = [1139, 659, 372]
+y_pos = np.arange(len(objects))
 
+plt.bar(y_pos, res)
+plt.xticks(y_pos, objects)
+plt.title('Sentiment Numbers')
+plt.show()
 
 
 
