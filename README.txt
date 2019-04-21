@@ -1,0 +1,6 @@
+The file naming convention is content filter, timeframe. 13hashtags includes all: admissionscandal admissionsscandal admissionscam admissionsscam collegeadmissionscandal collegeadmissionsscandal collegeadmissionscam collegeadmissionsscam collegescandal collegescam collegecheatingscandal collegecheatingscam loriloughlin.
+
+10hashtags only includes: admissionscandal admissionsscandal admissionscam admissionsscam collegeadmissionscandal collegeadmissionsscandal collegeadmissionscam collegeadmissionsscam collegescandal collegescam.
+
+There are more tweets when I use fewer hashtags and since the search uses the 'OR' operator, I can't explain why, but that is why I have included both files.
+So far (4/3/19 6:45) I have only pulled tweets within the 3-month timeframe. I started on Jan 1, 2019 until today. If we need more data later, I can absolutely bring the timeframe out to 6 months, but I wanted to at least get some data down first.I have done *no* cleaning or editing of the data so far. I think there are columns that can be removed from the csv files before we even import them to Python or R, but this is all completely raw data.
